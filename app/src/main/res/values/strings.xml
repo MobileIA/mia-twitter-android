@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mobileia Twitter</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">Q8koLO7n4kwvCOEsvQTBQ</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">HkOSyAvKwkZJTdUoPKqnhfdUBCO9gH4Ftif4ZObww</string>
+</resources>
