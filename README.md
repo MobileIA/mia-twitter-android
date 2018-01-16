@@ -1,4 +1,4 @@
-# MobileIa Twitter
+# MobileIA Twitter
 
 ## Como usar
 
